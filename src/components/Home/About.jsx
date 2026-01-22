@@ -14,8 +14,8 @@ const AboutSection = () => {
 
   const testimonials = [
   {
-    text: "Wow, so glad I didn't listen to negative reviews.Absolutely amazing job done. 1st class service, communication and quality work at a fantastic price, answered any questions promptly.100% use again and highly recommend. 5* plus.",
-    name: "Amy Mccarty",
+    text: "Amazing Service. I was experiencing suspension issues with my van. I was passing by and stopped and spoke to the owner to see if they could help. They were extremely busy however he could see my concern. He got the van in and sorted the issue on the same afternoon including an MOT. Very very reasonable price. Great service and lovely people to deal with. Highly recommend.",
+    name: "Dean Kirby",
   },
 
 ]
